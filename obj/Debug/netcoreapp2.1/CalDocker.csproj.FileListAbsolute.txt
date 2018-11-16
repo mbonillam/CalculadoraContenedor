@@ -1,0 +1,14 @@
+/home/megamab/Documentos/CalDocker/bin/Debug/netcoreapp2.1/CalDocker.deps.json
+/home/megamab/Documentos/CalDocker/bin/Debug/netcoreapp2.1/CalDocker.runtimeconfig.json
+/home/megamab/Documentos/CalDocker/bin/Debug/netcoreapp2.1/CalDocker.runtimeconfig.dev.json
+/home/megamab/Documentos/CalDocker/bin/Debug/netcoreapp2.1/CalDocker.dll
+/home/megamab/Documentos/CalDocker/bin/Debug/netcoreapp2.1/CalDocker.pdb
+/home/megamab/Documentos/CalDocker/obj/Debug/netcoreapp2.1/CalDocker.csprojAssemblyReference.cache
+/home/megamab/Documentos/CalDocker/obj/Debug/netcoreapp2.1/CalDocker.csproj.CoreCompileInputs.cache
+/home/megamab/Documentos/CalDocker/obj/Debug/netcoreapp2.1/CalDocker.RazorAssemblyInfo.cache
+/home/megamab/Documentos/CalDocker/obj/Debug/netcoreapp2.1/CalDocker.RazorAssemblyInfo.cs
+/home/megamab/Documentos/CalDocker/obj/Debug/netcoreapp2.1/CalDocker.AssemblyInfoInputs.cache
+/home/megamab/Documentos/CalDocker/obj/Debug/netcoreapp2.1/CalDocker.AssemblyInfo.cs
+/home/megamab/Documentos/CalDocker/obj/Debug/netcoreapp2.1/CalDocker.RazorTargetAssemblyInfo.cache
+/home/megamab/Documentos/CalDocker/obj/Debug/netcoreapp2.1/CalDocker.dll
+/home/megamab/Documentos/CalDocker/obj/Debug/netcoreapp2.1/CalDocker.pdb
